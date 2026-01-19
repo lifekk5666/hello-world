@@ -9,4 +9,7 @@ public class Main {
     String d = "hello good";
     String d1 = "hello good";
     String d11 = "hello good";
+    String d111 = "hello good";
+    String d12 = "hello good";
+    String d13 = "hello good";
 }
