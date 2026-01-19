@@ -16,5 +16,6 @@ public class Main {
     public void hello() {
         System.out.println("goddddddddddddddddddddddd");
         System.out.println("good");
+        System.out.println("44444");
     }
 }
