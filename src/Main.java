@@ -7,4 +7,6 @@ public class Main {
 
     String s= "hello good";
     String d = "hello good";
+    String d1 = "hello good";
+    String d11 = "hello good";
 }
