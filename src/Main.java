@@ -4,4 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hello world");
     }
+
+    String s= "hello good";
+    String d = "hello good";
 }
