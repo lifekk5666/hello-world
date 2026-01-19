@@ -12,4 +12,8 @@ public class Main {
     String d111 = "hello good";
     String d12 = "hello good";
     String d13 = "hello good";
+
+    public void hello() {
+        System.out.println("goddddddddddddddddddddddd");
+    }
 }
